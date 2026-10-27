@@ -76,7 +76,7 @@ El sistema se organiza en los siguientes módulos:
 ## 7. Evidencias de Ejecución
 
 ### Operación Exitosa (Registro y Venta)
-![Operación Exitosa](evidencias/venta_exitosa.png)
+![Operación Exitosa](Evidencias/venta_exitosa.png)
 
 ### Operación Rechazada (Stock Insuficiente)
-![Operación Rechazada](evidencias/venta_rechazada.png)
+![Operación Rechazada](Evidencias/venta_rechazada.png)
